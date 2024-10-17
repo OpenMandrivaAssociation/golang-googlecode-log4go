@@ -39,7 +39,7 @@ Version:        0
 Release:        0.9.hg%{shortrev}%{?dist}
 Summary:        Logging package similar to log4j for the Go programming language
 License:        BSD
-URL:            http://%{provider_prefix}
+URL:            https://%{provider_prefix}
 Source0:        https://%{repo}.%{provider}%{provider_sub}.%{provider_tld}/archive/%{rev}.tar.gz
 
 # If go_arches not defined fall through to implicit golang archs
